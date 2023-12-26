@@ -7,6 +7,7 @@ Welcome to the Python visual collection of 'Visualize Trends'.
 * [Moon Landing](#moon-landing)
 * [Neeraj Chopra](#neeraj-chopra)
 * [John Wick](#john-wick)
+* [EPL Standing](#epl-standing)
 
 ### Moon Landing
 ![Moon Landing](https://github.com/probablyvivek/visualizetrends/blob/main/Moon%20Landing/Moon%20Missions.png?raw=true)
