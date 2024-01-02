@@ -16,7 +16,7 @@ Check out the interactive version [here](https://public.tableau.com/app/profile/
 [Back to top](#table-of-contents)
 
 ### Gaming in India
-![Gaming in India](https://github.com/probablyvivek/visualizetrends/blob/main/Gaming%20in%20India.png?raw=true)
+![Gaming in India](https://github.com/probablyvivek/visualizetrends/blob/main/Random/Gaming%20in%20India.png?raw=true)
 Check out the interactive version [here](https://public.tableau.com/app/profile/visualizetrends/viz/Book1_17034558735370/GaminginIndia)
 
 [Back to top](#table-of-contents)
