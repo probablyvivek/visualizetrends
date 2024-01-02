@@ -7,6 +7,7 @@ Welcome to the Tableau visual collection of 'Visualize Trends'.
 * [Google Trends](#google-trends)
 * [Gaming in India](#gaming-in-india)
 * [Calendar 2024](#calendar-2024)
+* [Ram Mandir Timeline](#ram-mandir-timeline)
 
 ### Google Trends
 ![Google Trends](https://github.com/probablyvivek/visualizetrends/blob/main/Google%20Trends/Google%20Trends.png?raw=true)
@@ -23,5 +24,11 @@ Check out the interactive version [here](https://public.tableau.com/app/profile/
 ### Calendar 2024
 ![Calendar 2024](https://github.com/probablyvivek/visualizetrends/blob/main/Random/Calendar%202024.png?raw=true)
 Check out the interactive version [here](https://public.tableau.com/app/profile/visualizetrends/viz/Calendar2024_17033231763580/Calendar2024)
+
+[Back to top](#table-of-contents)
+
+### Ram Mandir Timeline
+![Ram Mandir Timeline](https://github.com/probablyvivek/visualizetrends/blob/main/Random/Timeline.png?raw=true)
+Check out the interactive version [here](https://public.tableau.com/app/profile/visualizetrends/viz/AyodhyaRamMandirTimeline/Timeline)
 
 [Back to top](#table-of-contents)
